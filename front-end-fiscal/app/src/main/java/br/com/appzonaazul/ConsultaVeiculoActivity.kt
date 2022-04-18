@@ -1,9 +1,12 @@
 package br.com.appzonaazul
 
 import android.appwidget.AppWidgetProvider
+import android.content.Context
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
+import android.view.inputmethod.InputMethodManager
 import androidx.appcompat.widget.AppCompatButton
 import androidx.appcompat.widget.AppCompatEditText
 import androidx.appcompat.widget.AppCompatTextView
@@ -11,6 +14,7 @@ import br.com.appzonaazul.databinding.ActivityConsultaVeiculoBinding
 import br.com.appzonaazul.util.RetrofitClient
 import br.com.appzonaazul.api.FireStore
 import br.com.appzonaazul.classes.Ticket
+import com.google.android.material.snackbar.Snackbar
 import com.google.gson.Gson
 import com.google.gson.JsonArray
 import com.google.gson.JsonElement
@@ -51,6 +55,9 @@ class ConsultaVeiculoActivity : AppCompatActivity() {
         startActivity(intentRegistrarIrregularidade)
 
     }
+
+
+
     private fun consultaVeiculo(placa: String) {
         val firebase = RetrofitClient.getRetrofitInstance().create(FireStore::class.java)
         println(firebase.toString())

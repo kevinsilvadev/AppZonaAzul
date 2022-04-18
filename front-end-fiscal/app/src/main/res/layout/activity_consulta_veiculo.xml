@@ -48,7 +48,6 @@
         android:layout_marginTop="20dp"
         android:textSize="25dp"
         android:textColor="@color/black"
-        android:textStyle="bold"
         />
 
     <androidx.cardview.widget.CardView
@@ -73,7 +72,7 @@
                 android:textStyle="bold"
                 android:textSize="20sp"
                 android:textColor="@color/white"
-                android:layout_marginTop="10dp"/>
+                android:layout_marginTop="5dp"/>
 
             <TextView
                 android:id="@+id/tvHoraInicio"
@@ -147,8 +146,6 @@
 
     </androidx.cardview.widget.CardView>
 
-
-
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnRegistrarIrregularidade"
         android:layout_width="260dp"
@@ -159,5 +156,12 @@
         app:cornerRadius="50dp"/>
 
 
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottom_navigation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:menu="@menu/bottom_navigation_menu"
+            android:layout_marginTop="50dp"/>
 
 </androidx.appcompat.widget.LinearLayoutCompat>

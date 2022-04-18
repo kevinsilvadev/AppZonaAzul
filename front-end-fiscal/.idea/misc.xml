@@ -15,12 +15,11 @@
         <entry key="..\:/Users/elias/OneDrive/Documentos/Programacao/Android/AppZonaAzul/app/src/main/res/layout/activity_home.xml" value="0.358695652173913" />
         <entry key="..\:/Users/elias/OneDrive/Documentos/Programacao/Android/AppZonaAzul/front-end-fiscal/app/src/main/res/layout/activity_camera.xml" value="0.182518115942029" />
         <entry key="..\:/Users/elias/OneDrive/Documentos/Programacao/Android/AppZonaAzul/front-end-fiscal/app/src/main/res/layout/activity_camera_preview.xml" value="0.182518115942029" />
-        <entry key="..\:/Users/elias/OneDrive/Documentos/Programacao/Android/AppZonaAzul/front-end-fiscal/app/src/main/res/layout/activity_consulta_veiculo.xml" value="0.264" />
+        <entry key="..\:/Users/elias/OneDrive/Documentos/Programacao/Android/AppZonaAzul/front-end-fiscal/app/src/main/res/layout/activity_consulta_veiculo.xml" value="0.182518115942029" />
         <entry key="..\:/Users/elias/OneDrive/Documentos/Programacao/Android/AppZonaAzul/front-end-fiscal/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Users/elias/OneDrive/Documentos/Programacao/Android/AppZonaAzul/front-end-fiscal/app/src/main/res/layout/activity_imagens_irregularidade.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/elias/OneDrive/Documentos/Programacao/Android/AppZonaAzul/front-end-fiscal/app/src/main/res/layout/activity_itinerario.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/elias/OneDrive/Documentos/Programacao/Android/AppZonaAzul/front-end-fiscal/app/src/main/res/layout/activity_maps.xml" value="0.27447916666666666" />
-        <entry key="..\:/Users/elias/OneDrive/Documentos/Programacao/Android/AppZonaAzul/front-end-fiscal/app/src/main/res/layout/custom_marker_info.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/AppZonaAzul/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1825" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/AppZonaAzul/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1825" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/AppZonaAzul/app/src/main/res/layout/activity_camera.xml" value="0.36666666666666664" />
@@ -28,12 +27,13 @@
         <entry key="..\:/Users/kevin/AndroidStudioProjects/AppZonaAzul/front-end-fiscal/app/src/main/res/layout/activity_itinerario.xml" value="0.17015706806282724" />
         <entry key="app/src/main/res/layout/activity_camera.xml" value="0.21331521739130435" />
         <entry key="app/src/main/res/layout/activity_camera_preview.xml" value="0.26965586344401044" />
-        <entry key="app/src/main/res/layout/activity_consulta_veiculo.xml" value="0.3541666666666667" />
+        <entry key="app/src/main/res/layout/activity_consulta_veiculo.xml" value="0.3099929809570313" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.22463938395182292" />
         <entry key="app/src/main/res/layout/activity_imagens_irregularidade.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/activity_itinerario.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_maps.xml" value="0.21331521739130435" />
         <entry key="app/src/main/res/layout/custom_marker_info.xml" value="0.2983612060546875" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3098958333333333" />
       </map>
     </option>
   </component>

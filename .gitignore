@@ -18,5 +18,11 @@ local.properties
 .idea/
 /build.gradle
 /gradlew.bat
+<<<<<<< HEAD
 /local.properties
 /.idea
+=======
+.local.properties
+.idea
+/.idea/build
+>>>>>>> a077b20cd24ec645787a6e1edd0fdfb0505241b1
